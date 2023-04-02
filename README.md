@@ -28,14 +28,11 @@ All in a one app.
 - [Lottie Files]() - Lottie Files is a library for adding animations to apps and websites, allowing designers to work with motion graphics without the need for coding skills.
 - [Unicons]() -  a library of scalable vector icons, designed to be easily customizable and optimized for use in various design projects.
 - [Firebase]() 
+- [OpenWeatherMap]() 
+- [Mapbox]() 
 
 ## 🛠️How I built it? 
 Using React JS ,Tailwind CSS, Firebase, OpenWeatherMap API,Mapbox API.
-
-## 💻 App Showcase
-| Desktop-UI | Phone-UI |
-|----------|----------|
-| ![Desktop-UI-demonstration]() | ![Phone-UI-demonstration-video]() |
 
 ## How to get started
 
@@ -49,8 +46,14 @@ git clone https://github.com/SayantaniDeb/MapHacks
 npm start
 ~~~
 
-## Replace the accesstoken with your generated accessToken
+## Replace the accesstoken with your generated accesstoken
+~~~bash
+/src/components/JourneyPath.js
+~~~
 
+~~~bash
+mapboxgl.accessToken = Your.ACCESS_TOKEN;
+~~~
 ## 🧠Challenges faced 
 
 - Working solo, trying to complete the project was a huge task.
