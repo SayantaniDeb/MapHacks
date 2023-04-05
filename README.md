@@ -4,7 +4,6 @@ Your Pocket Friendly Travel kit.
 
 ### You can find the app:
 
-##### [Hosted here]()
 ##### [Video Demo](https://youtu.be/B0YbesYIzzE)
 
 ## 💡Motivation 
